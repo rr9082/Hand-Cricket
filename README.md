@@ -1,4 +1,6 @@
 # Hand-Cricket
+The topic allocated to us for the socket Programming project is “Hand Cricket”.
+Here, the client establishes a connection with the server, this implies that the TCP protocol is being used. The Server Should allocate a new thread for every new incoming Client, to accomplish this feature we took care of concurrent threads which is when the number ofconnections is made with the server, that time each thread doesn’t interfere with one another. Therefore, we synchronized the thread
 
 ![WhatsApp Image 2022-11-09 at 10 59 11](https://user-images.githubusercontent.com/76959128/201486262-b1394f03-76f3-4350-baa2-5590a412207a.jpg)
 
