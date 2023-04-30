@@ -63,7 +63,7 @@ class Game:
         else:
             winner = -1
         return winner
-
+# this is done by sanskar
     def resetWent(self):
         self.p1Went = False
         self.p2Went = False
